@@ -1,6 +1,6 @@
 # Infected
 So now you got infected from Covid-19. Choose one option
 
-[Travel around world](infectmorepeople.md)
+[Travel around world](InfectMorePeople.md)
 
-[Stay home](getbetter.md)
+[Stay home](Getetter.md)
