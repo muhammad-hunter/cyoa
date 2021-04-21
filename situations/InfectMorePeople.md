@@ -1,5 +1,5 @@
 # Infected more people!
-You made a bad decision! Now what you want to do?
+You made another awful choice! Now what you want to do?
 
 [Hang out with your friends](sick.md)
 

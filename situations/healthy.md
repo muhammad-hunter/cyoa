@@ -1,5 +1,5 @@
 # Healthy
-Yay you made a awesome decision! So do you want to wear a mask most of the time or some time?
+Yay! You made an awesome decision! So do you want to wear a mask all the time or sometimes?
 
 [Most of the time](always.md)
 

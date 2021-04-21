@@ -1,6 +1,8 @@
 # Sometimes
-When you wear a masks sometimes you will still make people infected by the COVID-19
+So far this decision lead you here. Remember you should have were a mask all the time that is covered your face with mouth and nose. Now what do you want to do
 
 [Walk outside](sick.md)
 
 [School/Work](sick.md)
+
+[Wear a mask all the time when you are around people](awesome.md)

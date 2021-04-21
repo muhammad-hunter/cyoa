@@ -1,5 +1,5 @@
 # Infected
-So now that you got infected from Covid-19. Choose one option.
+Seriously?! That was so disgraceful. So now that you are infected with COVID-19, what's next?
 
 [Travel around the world](InfectMorePeople.md)
 
