@@ -1,5 +1,5 @@
 # Mask
-Should you wear a Mask outside?
+Should you wear a mask outside?
 
 [Wear a mask](situations/healthy.md)
 
